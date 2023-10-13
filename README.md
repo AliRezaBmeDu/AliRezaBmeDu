@@ -9,9 +9,9 @@
 
 **👨🏻‍💻 My Tech Stack:** 
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://www.ruby-lang.org/en//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a></code>
+<code><a href="https://www.ruby-lang.org/en//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://redux.js.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/b6009ab65b59f2afe14adca64a2d7425b85ca05e/svg/redux.svg"></a></code>
 <code><a href="https://rubyonrails.org/" target="_blank"><img height="50" src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"></a></code>
