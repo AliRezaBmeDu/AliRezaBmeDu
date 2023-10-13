@@ -16,6 +16,7 @@
 <code><a href="https://redux.js.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/b6009ab65b59f2afe14adca64a2d7425b85ca05e/svg/redux.svg"></a></code>
 <code><a href="https://rubyonrails.org/" target="_blank"><img height="50" src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"></a></code>
 <code><a href="https://nodejs.org/en" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://expressjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
