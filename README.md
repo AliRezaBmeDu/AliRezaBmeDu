@@ -20,6 +20,9 @@
 <code><a href="https://vuejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></a></code>
 
 ![AliReza's github stats](https://github-readme-stats.vercel.app/api?username=AliRezaBmeDu&show_icons=true&line_height=30)
 
