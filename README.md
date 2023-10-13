@@ -27,7 +27,7 @@
 <code><a href="https://sass-lang.com/"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
 <code><a href="https://www.css3.com/"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/3.0.x/"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
+<code><a href="https://jestjs.io/"><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></a></code>
 <code><a href="https://angular.io/"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="https://getbootstrap.com/"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 
