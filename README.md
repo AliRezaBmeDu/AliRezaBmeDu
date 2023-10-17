@@ -30,6 +30,7 @@
 <code><a href="https://sass-lang.com/"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
 <code><a href="https://jestjs.io/"><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></a></code>
 <code><a href="https://mochajs.org/"><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></a></code>
+<code><a href="https://rspec.info/"><img height="50" src="https://iconape.com/wp-content/files/ss/347290/svg/347290.svg"></a></code>
 <code><a href="https://vuejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
 <code><a href="https://angular.io/"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></a></code>
