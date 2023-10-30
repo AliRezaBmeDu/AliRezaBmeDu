@@ -7,6 +7,11 @@
 
 **💼 Currently working as:** Remote full stack developer at <a href="https://www.microverse.org/" target="_blank"><b>Microverse</b></a>
 
+<div align="center"> 
+  <p><b>My Profile View count</b></p>
+  <img src="https://profile-counter.glitch.me/ngalamac/count.svg" />
+</div>
+
 **👨🏻‍💻 My Tech Stack:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
