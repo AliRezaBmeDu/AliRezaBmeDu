@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <p><b>My Profile View count</b></p>
-  <img src="https://profile-counter.glitch.me/ngalamac/count.svg" />
+  <img src="https://profile-counter.glitch.me/AliRezaBmeDu/count.svg" />
 </div>
 
 **👨🏻‍💻 My Tech Stack:** 
