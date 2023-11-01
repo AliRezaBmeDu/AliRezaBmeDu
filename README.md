@@ -38,7 +38,6 @@
 <code><a href="https://rspec.info/"><img height="50" src="https://www.plutora.com/wp-content/uploads/2019/01/rspec.jpg"></a></code>
 <code><a href="https://vuejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
 <code><a href="https://angular.io/"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></a></code>
 
 ![AliReza's github stats](https://github-readme-stats.vercel.app/api?username=AliRezaBmeDu&show_icons=true&line_height=30)
 
