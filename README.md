@@ -41,8 +41,6 @@
 
 ![AliReza's github stats](https://github-readme-stats.vercel.app/api?username=AliRezaBmeDu&show_icons=true&line_height=30)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliRezaBmeDu&show_icons=true&locale=en" alt="AliReza" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliRezaBmeDu&" alt="AliReza" /></p>
 
 🌱 Learning all about **Open Source**
