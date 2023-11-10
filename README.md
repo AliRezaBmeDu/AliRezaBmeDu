@@ -40,7 +40,6 @@
 <code><a href="https://angular.io/"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
 ![AliReza's github stats](https://github-readme-stats.vercel.app/api?username=AliRezaBmeDu&show_icons=true&line_height=30)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliRezaBmeDu&show_icons=true&locale=en&layout=compact" alt="AliReza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliRezaBmeDu&show_icons=true&locale=en" alt="AliReza" /></p>
 
